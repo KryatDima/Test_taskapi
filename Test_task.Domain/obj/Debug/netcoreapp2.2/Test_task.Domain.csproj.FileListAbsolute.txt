@@ -1,0 +1,28 @@
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.deps.json
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.pdb
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Data.pdb
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Contracts.pdb
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csproj.CopyComplete
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.deps.json
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Domain.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Data.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\bin\Debug\netcoreapp2.2\Test_task.Contracts.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.csproj.CopyComplete
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Domain\obj\Debug\netcoreapp2.2\Test_task.Domain.pdb

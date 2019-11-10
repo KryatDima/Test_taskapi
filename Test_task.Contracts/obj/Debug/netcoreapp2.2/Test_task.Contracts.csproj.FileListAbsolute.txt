@@ -1,0 +1,18 @@
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.deps.json
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.pdb
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.deps.json
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\bin\Debug\netcoreapp2.2\Test_task.Contracts.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\Test_task.Contracts\obj\Debug\netcoreapp2.2\Test_task.Contracts.pdb

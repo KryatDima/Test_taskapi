@@ -1,0 +1,22 @@
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.deps.json
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.runtimeconfig.json
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.pdb
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.deps.json
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.runtimeconfig.json
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.runtimeconfig.dev.json
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\bin\Debug\netcoreapp2.2\Test_task.Data.pdb
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.AssemblyInfoInputs.cache
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.AssemblyInfo.cs
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.dll
+C:\Users\Дима\source\repos\Новая папка\Test_task\ClassLibrary1\obj\Debug\netcoreapp2.2\Test_task.Data.pdb
